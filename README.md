@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdowsett123
 - 👀 I’m interested in ... learning webdevelopment and getting into DevOps
-- 🌱 I’m currently learning ...HTML, CSS and JS
+- 🌱 I’m currently learning ... Python and AWS 
 - 💞️ I’m looking to collaborate on ... and project to build my experience and exposure
 - 📫 How to reach me ... harrydowsett@gmail.com
 
